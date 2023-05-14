@@ -1,0 +1,2 @@
+# Mydots
+My hyprland dots
