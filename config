@@ -1,3 +1,5 @@
+// I recommend you read the waybar manual pages "https://man.archlinux.org/man/community/waybar/waybar.5.en" it has all the modules you need if you want to add more.
+
 {
 "layer": "top",
 "position": "top",
@@ -141,3 +143,4 @@
 
    
 }
+
